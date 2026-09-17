@@ -1,4 +1,4 @@
-# Optimizing-Deep-Learning-for-Credit-Default-Prediction
+# Optimizing Deep Learning for Credit Default Prediction
 A Comparative Study of Random Search and Bayesian Optimization
 
 An end-to-end Machine Learning and Deep Learning pipeline designed to predict credit card default using financial tabular data. This repository contrasts traditional baseline models against an optimized deep learning architecture using **Optuna (Bayesian Optimization)** and interprets model decisions using **SHAP (SHapley Additive exPlanations)**.
